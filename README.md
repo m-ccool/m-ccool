@@ -16,7 +16,7 @@
 <!-- Title -->
 <h3 align="center">Hi, I’m B 🧑‍🔧 — Full-Stack SWE 🌐 · UI/UX-first</h3>
 
-<img src="URL-to-Gen3-Charizard.gif" alt="Gen 3 Charizard pixel animation" width="200px">
+<img src="https://media.tenor.com/9nBgEcu8e2IAAAAi/charizard-pokemon.gif" alt="Gen 3 Charizard pixel animation" width="200px">
 
 <p align="center">
   I design and build web experiences across web & mobile, with a pragmatic eye for ship-ready UI/UX.  
