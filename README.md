@@ -18,33 +18,12 @@
 </p>
 
 <!-- Title -->
-<h1 align="center">Hi, I’m Doxxus (Barbara) — Full-Stack SWE · UI/UX-first</h1>
+<h1 align="center">Hi, I’m Doxxus (B) — Full-Stack SWE · UI/UX-first</h1>
 
 <p align="center">
-  I design and build snappy React experiences across web & mobile, with a pragmatic eye for ship-ready UI/UX.  
-  Windows + Node workflows, cross-platform deployment, and a soft spot for clean, dark UIs with neon accents.
+  I design and build web experiences across web & mobile, with a pragmatic eye for ship-ready UI/UX.  
+  Windows + Node workflows, cross-platform deployment.
 </p>
-
----
-
-### 🧭 Snapshot
-- **Full-Stack Software Engineer** with a **UI/UX specialty** (React web + React Native).
-- Builder of sleek portfolio apps and small-biz sites; host on my own Windows cloud server.
-- Past: **Geek Squad** Advanced Repair Tech → CI Agent Sr. (hardware triage → process & SOP mindset).
-- Current focus: shipping tight demos, gov-contract-ready professionalism, and high-leverage tooling.
-- Side quests: **desk-pet app** (overlay, low-poly shader look), **3D/2D asset pipelines**, and console tinkering.
-- Based in **Mid-Michigan**; frequently targeting opportunities in **Denver**.
-
-### 🧪 What I’m into right now
-- Crafting **simple, fast** React stacks with just-enough backend.
-- Minimalist **dark UI systems** with tasteful RGB accents.
-- Content + demos for local business packages (splash pages, 3-page sites) via **Doxxus.dev**.
-- Clean READMEs, clear SOPs, and “push-to-prod without drama.”
-
-### 🚀 Selected threads of work
-- **Doxxus.dev** — brand + portfolio hub, code-first demos, practical pricing.
-- **React/Native**: mobile-first flows, performant lists, delightful micro-interactions.
-- **Infra**: Windows-based dev + deployment; keep it reproducible and document the path.
 
 ---
 
