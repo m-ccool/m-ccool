@@ -28,7 +28,7 @@
 
 ---
 
-### Connect
+### 🔗 Connect
 - 📂 Portfolio: **https://doxxus.us**
 - 📧 GitHub: **@m-ccool**
 - 💼 LinkedIn: **b-m-ccool**
