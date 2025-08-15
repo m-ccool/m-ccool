@@ -1,9 +1,5 @@
 <!-- ABOUT.md / README.md for profile -->
 <!-- Banner -->
-<p align="center">
-  <img src="0" alt="Doxxus — code banner" width="100%" />
-</p>
-
 <!-- Badges: Profile Links -->
 <p align="center">
   <a href="https://github.com/m-ccool">
