@@ -28,16 +28,10 @@
 
 ---
 
-### 📫 Connect
-- Portfolio: **https://doxxus.us**
-- GitHub: **@m-ccool**
-- LinkedIn: **/in/b-m-ccool/**
-
-  ###📧 Connect
-  
-  📂 Portfolio: **https://doxxus.us**
-  📧 Email: dev@doxxus.us
-  💼 LinkedIn: **/in/b-m-ccool/**
+### Connect
+- 📂 Portfolio: **https://doxxus.us**
+- 📧 GitHub: **@m-ccool**
+- 💼 LinkedIn: **/in/b-m-ccool/**
 
 ---
 
