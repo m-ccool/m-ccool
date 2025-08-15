@@ -28,14 +28,11 @@
 
 ---
 
-<div align="center" width="50%">
-  <h4>
-    📧 Connect
-  </h4>
+  <h4>📧 Connect</h4>
+  
   📂 Portfolio: **https://doxxus.us**
   📧 Email: dev@doxxus.us
   💼 LinkedIn: B McCool
-</div>
 
 ---
 
