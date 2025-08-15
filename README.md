@@ -22,7 +22,6 @@
 
 <p align="center">
   I design and build web experiences across web & mobile, with a pragmatic eye for ship-ready UI/UX.  
-  Windows + Node workflows, cross-platform deployment.
 </p>
 
 ---
