@@ -33,11 +33,11 @@
     📧 Connect
   </h4>
   
-  <p>
-    - Portfolio: **https://doxxus.us**
-    - GitHub: **@m-ccool**
-    - LinkedIn: **/in/b-m-ccool/**
-  </p>
+  <ul>
+    <li></li>Portfolio: **https://doxxus.us**
+    <li></li>- GitHub: **@m-ccool**
+    <li> <url="https://www.linkedin.com/in/b-m-ccool/">LinkedIn: B McCool</url></li>
+  </ul>
 </div>
 
 ---
