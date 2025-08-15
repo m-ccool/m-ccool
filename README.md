@@ -18,7 +18,7 @@
 </p>
 
 <!-- Title -->
-<h1 align="center">Hi, I’m Doxxus (B) — Full-Stack SWE · UI/UX-first</h1>
+<h1 align="center">Hi, I’m B 🧑‍🔧 — Full-Stack SWE 🌐 · UI/UX-first</h1>
 
 <p align="center">
   I design and build web experiences across web & mobile, with a pragmatic eye for ship-ready UI/UX.  
