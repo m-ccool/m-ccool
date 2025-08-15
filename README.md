@@ -32,12 +32,9 @@
   <h4>
     📧 Connect
   </h4>
-  
-  <ul>
-    <li></li>Portfolio: **https://doxxus.us**
-    <li></li>- GitHub: **@m-ccool**
-    <li> <url="https://www.linkedin.com/in/b-m-ccool/">LinkedIn: B McCool</url></li>
-  </ul>
+  📂 Portfolio: **https://doxxus.us**
+  📧 Email: dev@doxxus.us
+  💼 LinkedIn: B McCool
 </div>
 
 ---
