@@ -1,7 +1,7 @@
 <!-- ABOUT.md / README.md for profile -->
 <!-- Banner -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1600&auto=format&fit=crop&q=80" alt="Doxxus — code banner" width="100%" />
+  <img src="0" alt="Doxxus — code banner" width="100%" />
 </p>
 
 <!-- Badges: Profile Links -->
