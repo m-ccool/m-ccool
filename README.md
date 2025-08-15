@@ -18,7 +18,9 @@
 </p>
 
 <!-- Title -->
-<h1 align="center">Hi, I’m B 🧑‍🔧 — Full-Stack SWE 🌐 · UI/UX-first</h1>
+<h3 align="center">Hi, I’m B 🧑‍🔧 — Full-Stack SWE 🌐 · UI/UX-first</h3>
+
+<img src="URL-to-Gen3-Charizard.gif" alt="Gen 3 Charizard pixel animation" width="200px">
 
 <p align="center">
   I design and build web experiences across web & mobile, with a pragmatic eye for ship-ready UI/UX.  
