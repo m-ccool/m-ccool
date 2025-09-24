@@ -1,7 +1,8 @@
 # Hi, I’m B 🧑‍🔧 
-## Full-Stack SWE 🌐 · UI/UX-first
+Full-Stack SWE 🌐 · UI/UX-first
+ 
 
-<p align="center">⬛⬛⬛</p>
+<p align="center">🔗💻🔗</p>
 
 <p align="center">
   <a href="https://github.com/m-ccool">
@@ -50,4 +51,4 @@ I design and build web experiences across **web & mobile**, with a pragmatic eye
 
 ---
 
-<p align="center">⬛⬛⬛</p>
+<p align="center">🔗💻🔗</p>
