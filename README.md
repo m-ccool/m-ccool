@@ -25,8 +25,7 @@ I design and build web experiences across **web & mobile**, with a pragmatic eye
 
 ---
 
-### 🛠️ Current Task
-`updating github & linkedin ...`
+`current task: updating github & linkedin ...`
 
 ---
 
