@@ -37,7 +37,7 @@ I design and build web experiences across **web & mobile**, with a pragmatic eye
 
 ---
 
-### ⚡ Tech Stack
+### 🧩 Tech Stack
 
 <p align="center">
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
