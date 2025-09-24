@@ -28,6 +28,10 @@
 
 ---
 
+<div align="center">
+    ``` current task: updating github & linkedin ...```
+</div>
+
 ### 🔗 Connect
 - 📂 Portfolio: **https://doxxus.us**
 - 📧 GitHub: **@m-ccool**
