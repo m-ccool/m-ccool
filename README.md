@@ -1,5 +1,5 @@
 # Hi, I’m B 🧑‍🔧 
-##Full-Stack SWE 🌐 · UI/UX-first
+## Full-Stack SWE 🌐 · UI/UX-first
 
 <p align="center">⬛⬛⬛</p>
 
