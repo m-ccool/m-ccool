@@ -29,7 +29,7 @@
 ---
 
 <div align="center">
-    ``` current task: updating github & linkedin ...```
+    `current task: updating github & linkedin ...`
 </div>
 
 ### 🔗 Connect
