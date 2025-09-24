@@ -29,13 +29,6 @@ I design and build web experiences across **web & mobile**, with a pragmatic eye
 
 ---
 
-### 🔗 Connect
-- 📂 Portfolio: [doxxus.us](https://doxxus.us)  
-- 📧 GitHub: [@m-ccool](https://github.com/m-ccool)  
-- 💼 LinkedIn: [b-m-ccool](https://www.linkedin.com/in/b-m-ccool/)  
-
----
-
 ### 🧩 Tech Stack
 
 <p align="center">
