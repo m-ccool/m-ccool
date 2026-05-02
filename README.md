@@ -4,9 +4,7 @@
 <p align="center">Full-Stack SWE with a UI/UX-first build style for web and mobile.</p>
 
 <p align="center">
-  <img alt="Doxxus" src="https://img.shields.io/badge/DOXXUS-0F0F10?style=for-the-badge&logo=vercel&logoColor=57D7FF" />
-  <img alt="Webspaces" src="https://img.shields.io/badge/CREATE_WEBSPACE-0F0F10?style=for-the-badge&logoColor=8AFF96&labelColor=0F0F10&color=0F0F10" />
-  <img alt="UI/UX" src="https://img.shields.io/badge/UI%2FUX_FIRST-0F0F10?style=for-the-badge&logoColor=FF8AB4&labelColor=0F0F10&color=0F0F10" />
+  <img alt="Doxxus" src="https://img.shields.io/badge/DOXXUS-0F0F10?style=for-the-badge&logoColor=57D7FF" />
 </p>
 
 <p align="center">
