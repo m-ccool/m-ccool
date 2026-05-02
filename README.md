@@ -41,12 +41,6 @@ I design and ship production-ready web experiences with a practical focus on cle
   <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/MSSQL-0F0F10?style=for-the-badge&logo=microsoftsqlserver&logoColor=FF5F6E" />
 </p>
 
-<p align="center">
-  <a href="https://doxxus.us">
-    <img alt="Doxxus Portfolio" src="https://img.shields.io/badge/VIEW_FULL_PORTFOLIO-0F0F10?style=for-the-badge&logo=googlechrome&logoColor=FF8AB4" />
-  </a>
-</p>
-
 ---
 
 <p align="center">Need UX design, web, or software development? Contact via doxxus.us.</p>
