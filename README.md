@@ -15,7 +15,7 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://doxxus.us">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Doxxus.us-111?style=for-the-badge&logo=vercel&logoColor=white">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Doxxus.us-111?style=for-the-badge&logoColor=white">
   </a>
 </p>
 
