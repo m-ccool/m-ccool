@@ -4,6 +4,7 @@
 <p align="center">Full-Stack SWE with a UI/UX-first build style for web and mobile.</p>
 
 <p align="center">
+  <a href="https://doxxus.us/">
   <img alt="Doxxus" src="https://img.shields.io/badge/DOXXUS-0F0F10?style=for-the-badge&logoColor=57D7FF" />
 </p>
 
